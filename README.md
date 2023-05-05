@@ -11,7 +11,7 @@ This fork improves the model selection options by adding more pre-trained models
 # Usage
 
 ```
-run start windows.bat 
+run start start_windows.bat
 simply select or download a model.
 ```
 
