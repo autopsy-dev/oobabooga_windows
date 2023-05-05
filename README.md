@@ -8,16 +8,17 @@ The web interface allows users to input a starting prompt and generate text usin
 
 This fork improves the model selection options by adding more pre-trained models to choose from. This allows users to generate text using different models and compare their output.
 
-#Usage
+# Usage
 
 ```
 run start windows.bat 
 simply select or download a model.
 ```
 
-#Credits
+# Credits
 
 This web interface was originally created by oobabooga and has been improved by the contributors of this fork. The pre-trained models used in this project were created by various researchers and are listed in the models directory.
-License
+
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
