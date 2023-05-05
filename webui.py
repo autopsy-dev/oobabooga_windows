@@ -77,7 +77,7 @@ def run_model():
         for model_dir in model_dirs:
             model_name = os.path.basename(model_dir)
             model_dir_path = os.path.dirname(model_dir)
-            run_cmd(f"python server.py --chat --model-menu --wbits 4 --groupsize 128 --gpu-memory 22 --pre_layer 32 --auto-devices --model-dir {model_dir_path} --model {model_name} --model_type llama", environment=True)  # put your flags here!
+            run_cmd(f"python server.py --chat --model-menu --wbits 4 --groupsize 128 --auto-devices --model-dir {model_dir_path} --model {model_name} --model_type llama", environment=True)  # put your flags here!
     else:
         print("No models selected.")
 
