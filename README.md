@@ -8,10 +8,10 @@ This installation script allows users to easily install and run a web interface 
 
 # Improvements
 
-    Improved the interface to allow users to easily select the desired model.
-    Updated the dependencies to ensure compatibility with the latest versions of required packages.
-    Added error handling and logging to provide better feedback to users in case of issues during installation or usage.
-    Included detailed documentation and instructions for installation and usage.
+* Improved the interface to allow users to easily select the desired model.
+* Updated the dependencies to ensure compatibility with the latest versions of required packages.
+* Added error handling and logging to provide better feedback to users in case of issues during installation or usage.
+* Included detailed documentation and instructions for installation and usage.
     
 # Usage
 
