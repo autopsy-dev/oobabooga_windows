@@ -16,7 +16,7 @@ This installation script allows users to easily install and run a web interface 
 # Usage
 
 ```
-run start start_windows.bat
+run start_windows.bat
 simply select or download a model.
 ```
 
