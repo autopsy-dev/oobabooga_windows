@@ -1,13 +1,18 @@
 # oobabooga's Text Generation WebUI
 
-This is a fork of oobabooga's Text Generation WebUI, which provides a web interface for generating text using a large language model.
+This is a fork of oobabooga's Text Generation WebUI, which provides an easy to install web interface for generating text using a large language model.
 
-# Description
+# Description:
 
-The web interface allows users to input a starting prompt and generate text using a large language model (LLM). The LLM is trained on a large corpus of text and is capable of generating coherent and fluent text based on the input prompt.
+This installation script allows users to easily install and run a web interface for generating text using large language models (LLMs). The script includes improved model selection options, allowing users to generate text using different models and compare their output.
 
-This fork improves the model selection options by adding more pre-trained models to choose from. This allows users to generate text using different models and compare their output.
+# Improvements
 
+    Improved the interface to allow users to easily select the desired model.
+    Updated the dependencies to ensure compatibility with the latest versions of required packages.
+    Added error handling and logging to provide better feedback to users in case of issues during installation or usage.
+    Included detailed documentation and instructions for installation and usage.
+    
 # Usage
 
 ```
